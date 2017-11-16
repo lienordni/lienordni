@@ -19,8 +19,5 @@ it comes without any warranty; without even the implied warranty of
 merchantibility or fitness for a particular purpose. See the
 GNU General Public License for more details.
 
-A few functions has been copied from Mahmoud Mechehoul's BigInteger Class.
-(https://github.com/technophilis/BigIntegerCPP)
-
 You should have recieved a copy of the GNU Public License along with this file.
 If not, please visit (https://www.gnu.org/licenses/gpl.txt)
