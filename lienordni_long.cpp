@@ -19,9 +19,6 @@ it comes without any warranty; without even the implied warranty of
 merchantibility or fitness for a particular purpose. See the
 GNU General Public License for more details.
 
-A few functions has been copied from Mahmoud Mechehoul's BigInteger Class.
-(https://github.com/technophilis/BigIntegerCPP)
-
 You should have recieved a copy of the GNU Public License along with this file.
 If not, please visit (https://www.gnu.org/licenses/gpl.txt)
 
@@ -613,8 +610,10 @@ int lienordni::trailingZeroes() const {
 #endif
 
 int main() {
-	lienordni A("123817238468274628746283");
+	lienordni A("1238172384682798654321561786717671671767176717681768726384726348726348263423422341223342344246384274628746283");
 	lienordni B("178317853145314564");
+
+	B="2342638472346287348273462748234234234242342834672874627348274627348";
 
 	std::cout<<"A = "<<A<<std::endl;
 	std::cout<<"B = "<<B<<std::endl<<std::endl;
